@@ -40,3 +40,18 @@ The updraft is modeled as:
 
 ```math
 w(x,y) = W_0 e^{-((x-x_c)^2 + (y-y_c)^2)/R^2}
+
+## Results
+### Simple Thermal Detection
+
+![Simple thermal detection](figures/thermal_detection_simple.png)
+
+### 2D Altitude Comparison
+
+![2D altitude comparison](figures/altitude%20comparison%202d.png)
+
+### 2D Flight Paths
+
+![2D flight paths](figures/flight%20paths%202d.png)
+
+
